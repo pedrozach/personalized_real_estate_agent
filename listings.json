@@ -1,0 +1,92 @@
+[
+    {
+        "neighborhood": "Graca",
+        "price": "525000",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "square_meters": "75",
+        "description": "Charming refurbished apartment with picturesque views of Lisbon. This 19th-century building offers a cozy living room, two bedrooms, and a modern bathroom. The kitchen is fully equipped with high-end appliances and stylish finishes. Enjoy the beautiful light-filled spaces and authentic details throughout the apartment.",
+        "neighborhood_description": "Located in the historic neighborhood of Graca, this apartment offers a unique opportunity to experience Lisbon's rich culture and vibrant atmosphere. Enjoy the convenience of nearby cafes, restaurants, and shops, as well as easy access to public transportation. With stunning views overlooking the city, you can appreciate the beauty of Lisbon every day."
+    },
+    {
+        "neighborhood": "Alfama",
+        "price": "550000",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "square_meters": "80",
+        "description": "Charming and cozy apartment in Alfama. This beautifully refurbished apartment offers stunning views of the Tagus River and the historic neighborhoods of Lisbon. The airy living room allows for plenty of natural light, and the sleek kitchen is fully equipped with modern appliances. The two spacious bedrooms are comfortable and welcoming, with one elegant bathroom featuring contemporary fixtures and fittings.",
+        "neighborhood_description": "Alfama is one of the oldest and most picturesque neighborhoods in Lisbon, known for its winding medieval streets, colorful houses, and authentic local atmosphere. This property is conveniently located near local amenities such as cafes, restaurants, and traditional Fado music venues. Public transportation is easily accessible, with tram and bus stops nearby, offering a convenient commute to other parts of the city."
+    },
+    {
+        "neighborhood": "Baixa",
+        "price": "850000",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "square_meters": "75",
+        "description": "Renovated apartment in the heart of Lisbon's historic Baixa district. The property boasts stunning views of the bustling streets below and the majestic Sao Jorge Castle. The apartment comes fully furnished and includes a modern kitchen with high-end appliances. Additionally, the spacious living room is filled with natural light and offers a cozy ambiance.",
+        "neighborhood_description": "Live the ultimate urban lifestyle in Baixa, surrounded by charming cafes, restaurants, and boutique shops. The property is conveniently located near major transport hubs, making it easy to navigate the vibrant city of Lisbon. Residents can enjoy leisurely strolls along the nearby Rua Augusta, explore the beautiful gardens of Terreiro do Paco, or hop on a tram to discover the city's iconic landmarks."
+    },
+    {
+        "neighborhood": "Campo de Ourique",
+        "price": "825000",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "square_meters": "142",
+        "description": "Beautiful spacious apartment with high-quality finishes located in Campo de Ourique. This fully renovated apartment comprises a bright living room, four bedrooms (two en suite), three bathrooms, a modern kitchen with fully equipped appliances, and a cozy balcony overlooking the charming streets of Lisbon. The apartment is on the third floor of a well-maintained building with an elevator.",
+        "neighborhood_description": "Campo de Ourique is a desirable neighborhood in Lisbon known for its tranquility and vibrant community atmosphere. Enjoy easy access to local markets, boutique shops, excellent restaurants, and green spaces like Jardim da Parada and Jardim Fernando Pessoa. Here, you can experience the authentic Lisbon lifestyle while still having modern comforts at your doorstep. Public transportation options are readily available for commuting around the city."
+    },
+    {
+        "neighborhood": "Marqueas de Pombal",
+        "price": "875000",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "square_meters": "150",
+        "description": "Beautiful newly renovated apartment in Marqu\u00eas de Pombal. The apartment offers spacious and bright rooms, with a modern design and high-end finishes. It features a fully equipped kitchen, a large living room ideal for entertaining, four bedrooms including a luxurious master suite, and three modern bathrooms.",
+        "neighborhood_description": "Located in the prestigious Marqu\u00eas de Pombal neighborhood, this apartment is surrounded by upscale boutiques, fine dining restaurants, and cultural attractions. Residents can enjoy easy access to parks, schools, and public transportation, making it an ideal place for those seeking convenience and luxury in the heart of Lisbon."
+    },
+    {
+        "neighborhood": "Estrela",
+        "price": "825000",
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "square_meters": "160",
+        "description": "Stunning penthouse apartment in Estrela with panoramic city views. This recently renovated property offers ample living space, high-quality finishes, and a private terrace. The master bedroom comes with an en-suite bathroom and a walk-in closet. The spacious living room is perfect for entertaining guests.",
+        "neighborhood_description": "Located in the upscale Estrela neighborhood, this apartment is surrounded by historical charm and modern conveniences. Enjoy easy access to parks, cultural attractions, boutique shops, and finest restaurants. Public transportation options are abundant, making it a convenient choice for urban living in Lisbon."
+    },
+    {
+        "neighborhood": "Alfama",
+        "price": "850000",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "square_meters": "120",
+        "description": "Stunning renovated apartment with a perfect mix of traditional charm and modern comfort. This spacious home features four bedrooms, three bathrooms, a cozy living room, and a fully equipped kitchen. Enjoy the vibrant alfresco lifestyle on the balcony with picturesque views of Alfama.",
+        "neighborhood_description": "Alfama is one of the oldest and most picturesque neighborhoods in Lisbon, known for its winding narrow streets, colorful houses, historical sites, and lively music scene. Residents benefit from easy access to local markets, restaurants, Fado houses, and various cultural attractions. Commuting is convenient with tram and bus stops nearby."
+    },
+    {
+        "neighborhood": "Campo de Ourique",
+        "price": "875000",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "square_meters": "120",
+        "description": "Stunning renovated apartment with a contemporary design in the vibrant Campo de Ourique neighborhood. This property features four spacious bedrooms, three modern bathrooms, a sleek kitchen, a bright and airy living room, and a cozy balcony overlooking the picturesque streets of Lisbon. The apartment is bathed in natural light and comes with high-quality finishes throughout.",
+        "neighborhood_description": "Campo de Ourique is a charming and trendy neighborhood known for its tree-lined streets, boutique shops, gourmet grocery stores, and cozy cafes. Residents can enjoy easy access to public transportation, parks, cultural venues, and a wide range of dining options from trendy restaurants to traditional tasquinhas. The lively Mercado de Campo de Ourique offers fresh produce, gourmet delights, and a diverse food court for residents to enjoy."
+    },
+    {
+        "neighborhood": "Baixa",
+        "price": "850000",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "square_meters": "110",
+        "description": "Luxurious newly refurbished apartment located in the heart of Baixa. This stunning property features two spacious bedrooms, two modern bathrooms, a fully-equipped kitchen, and a cozy living room with panoramic city views. The apartment is elegantly designed with high-quality finishes and ample natural light throughout.",
+        "neighborhood_description": "Baixa is a historic and vibrant neighborhood in Lisbon known for its stunning architecture, charming cobblestone streets, and bustling atmosphere. Residents can enjoy a wide range of amenities including trendy boutiques, restaurants, museums, and cultural attractions. Public transportation options are easily accessible, making it convenient to explore the rest of the city."
+    },
+    {
+        "neighborhood": "Parque das Nacoes",
+        "price": "850000",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "square_meters": "110",
+        "description": "Newly renovated waterfront apartment with stunning views of the Tagus River. The apartment features two spacious bedrooms, two modern bathrooms, a fully equipped kitchen, and a bright living room. The large windows allow natural light to flow into the living space, creating a warm and inviting atmosphere. Enjoy beautiful sunsets from your private balcony overlooking the marina.",
+        "neighborhood_description": "Located in the vibrant Parque das Na\u00e7\u00f5es, this apartment offers a unique lifestyle with easy access to restaurants, cafes, shopping centers, and recreational areas. The neighborhood is known for its modern architecture, extensive promenades, and riverside dining options. Residents can also enjoy the nearby park, cable car rides, and the Oceanarium. Convenient access to public transportation, including the metro and train stations, provides quick connections to the city center."
+    }
+]
